@@ -1,6 +1,6 @@
 ## Title: LetMeLootIt
 ## Author: Ashi
-## APIVersion: 100022 100023
+## APIVersion: 100025
 ## Version: 1.1.0
 ## SavedVariables: LetMeLootIt_SavedVariables
 ## OptionalDependsOn: LibAddonMenu-2.0
